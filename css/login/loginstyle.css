@@ -1,0 +1,20 @@
+#login-body{
+    background-image: url('/images/login.jpg');
+    color: white;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.8); /* Transparent white background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+.form-label {
+    color: #000; /* Black label text */
+}
+.btn-primary {
+    background-color: #1e90ff; /* Dodger blue button */
+    border-color: #1e90ff;
+}
+.btn-primary:hover {
+    background-color: #1c86ee; /* Slightly darker blue on hover */
+}
